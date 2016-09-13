@@ -1,3 +1,3 @@
 #!/bin/bash
 DATE=`date +%Y_%m_%d`
->$DATE"_"$1
+cat $1>$DATE"_"$1
