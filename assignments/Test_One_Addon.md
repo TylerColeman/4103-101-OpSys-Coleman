@@ -1,4 +1,4 @@
-MULTI*
+#H1 MULTI*
 MULTI-TASKING-Running multiple programs at a time using context switching, giving the illusion of concurrency.
 MULTI-PROGRAMMING- Loading multiple programs into memory and running them one at a time while the other programs wait their turn.
 MULTI-PROCESSING-Taking advantage of having multiple CPU's or multiple cores on a single CPU. Allows for true concurrent CPU calculations because processes can be run simultaniously on different cores.
