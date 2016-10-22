@@ -50,12 +50,12 @@ A process that has multiple code sub-segments called "threads" that run concurre
 	where as, a trap is associated with The execution of an instruction 
 	and is usually part of handling an exception condition.
 ####Give three examples of an interrupt.
-	 Clock interrupt: The OS removes a interupts a process that has 
+	 *Clock interrupt*: The OS removes a interupts a process that has 
 	 been running for too long.
-	 I/O interrupt: A process can be interupted if it's next 
+	 *I/O interrupt*: A process can be interupted if it's next 
 	 instruction requires I/O to free the CPU for a process that 
 	 does not need I/O.
-	 Memory Fault: The processor encounters a virtual memory adress 
+	 *Memory Fault*: The processor encounters a virtual memory adress 
 	 refrence for a word that is not in main memory. The OS must interupt 
 	 the process to bring the block of referenced memory back to main memory.
 ####What is the difference between a mode switch and a process switch?
